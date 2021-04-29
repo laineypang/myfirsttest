@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "name": "Drug Study Example",
+    "description": "Use neural network and C5.0 algorithms to build classification models that allow you to predict the correct type of drug for a patient based on various health metrics.",
+    "asset_type": "machine-learning-stream",
+    "origin_country": "us",
+    "created_at": "2021-04-29T21:36:36Z",
+    "created": 1619732196489,
+    "asset_id": "machine-learning-stream.DrugStudyExample",
+    "asset_attributes": [
+      "machine-learning-stream",
+      "machine-learning-canvas-flow"
+    ]
+  },
+  "entity": {
+    "machine-learning-stream": {
+      "path": "/v1/ml-streams",
+      "properties": {
+        "runtime": "spss-modeler",
+        "lock": {}
+      },
+      "flow_type": "spss"
+    },
+    "machine-learning-canvas-flow": {
+      "properties": {}
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "machine-learning-canvas-flow",
+      "object_key_is_read_only": false,
+      "object_key": "machine-learning-stream/machine-learning-stream.DrugStudyExample",
+      "user_data": {},
+      "created_at": "2021-04-29T21:36:38Z",
+      "id": "3e98c86d-6407-47cc-8410-884d4c8035f4",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
